@@ -1,0 +1,24 @@
+
+.name{
+    font-size: 200%;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+.responsive-img {
+    border: 2px solid #b0bec5;
+    border-radius: 2px;
+    
+}
+
+a {
+    color: white;
+}
+
+.text-divide {
+    color: #b0bec5;
+    margin-right: 10px;
+    margin-left: 10px;
+}
