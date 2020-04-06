@@ -7,6 +7,10 @@ nav {
     margin-bottom: 20px;
 }
 
+.pic-col {
+    margin-bottom: 10px;
+}
+
 .responsive-img {
     border: 2px solid #b0bec5;
     border-radius: 2px;
@@ -21,4 +25,13 @@ a {
     color: #b0bec5;
     margin-right: 10px;
     margin-left: 10px;
+}
+
+.footer {
+    position: fixed;
+    height: 40px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+
 }
